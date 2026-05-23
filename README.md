@@ -1,16 +1,17 @@
 # Hi, I'm Varsha Nair 👋
 
-**Principal Software Developer · 8+ years · AI/ML Specialist**
+**Principal Backend Engineer · 8+ years · Distributed Systems & AI Integration**
 
-- 🏢 Principal engineer at **ByteForge Solutions** — designed the full backend of [Raays](https://raays.com) (food-delivery platform) · 12% equity for end-to-end delivery
+- 🏢 Principal engineer at **ByteForge Solutions** — architected [Raays](https://raays.com) backend (FastAPI microservices, Kafka, TimescaleDB, PostGIS) · 12% equity
 - 🎓 PG Cert in AI/ML — University of Texas at Austin · IT Bridge Program — York University, Toronto
-- 🔬 Specialising in LLM integration, agentic pipelines, real-time streaming APIs, and distributed backend systems
+- 🔬 Backend specialist who integrates AI into production systems — LLM pipelines, multi-agent orchestration, real-time streaming
 
-**Highlights**
+**Impact Highlights**
 
-- Raays: microservices on FastAPI · OAuth2/JWT · TimescaleDB · AWS · 12% equity
-- Unbox Social: AI influencer analytics driving 70% of company revenue · 40% latency reduction with ElasticSearch + Redis
-- JSW Steel ERP: custom supply chain system · 30% revenue growth in Q1
+- Raays (ByteForge): FastAPI microservices · OAuth2/JWT · Kafka · PostGIS · TimescaleDB · AWS — 12% equity for ground-up architecture
+- Unbox Social: AI influencer analytics engine — 70% of company revenue · 40% latency reduction with ElasticSearch + Redis
+- 15 AI/SaaS projects: RAG systems, multi-agent orchestration, core banking (double-entry ledger), payment processing (Go gRPC)
+- NEC Software: Azure data integration (100K+ users) · SSO · enterprise data pipelines
 
 ---
 
@@ -41,7 +42,7 @@
 
 ---
 
-## AI Engineering Portfolio — 13 Projects
+## Backend Systems Portfolio — 15 Projects
 
 | # | Project | What it does | Stack |
 |---|---------|-------------|-------|
@@ -61,9 +62,9 @@
 
 ---
 
-## SaaS Engineering Portfolio — Phase 2 (Built)
+**Phase 1: AI-Integrated Backends** — Production APIs with LLM integration (RAG, agents, streaming)
 
-Finance/banking-focused distributed systems with production-grade architecture patterns.
+**Phase 2: Fintech Infrastructure** — Core banking & payment systems with enterprise patterns
 
 | # | Project | Domain | Stack |
 |---|---------|--------|-------|
